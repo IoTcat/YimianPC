@@ -9,6 +9,7 @@ Config and Reminders for YimianPC.
  - 个性化
  - 命令行类Linux
  - win10深度定制
+ - 资料(qq聊天记录)自动备份@git
  
 ## 系统架构
 ```
@@ -36,7 +37,8 @@ Config and Reminders for YimianPC.
 |   |   |---copay
 |   |   |---Dolby
 |   |---IDM
-|   |---VMWare
+|   |---VMWare player
+|   |---搜狗输入法
 |   |---potplayer
 |   |---BandZip
 |   |---navicat for mysql 10.1.7
@@ -44,6 +46,7 @@ Config and Reminders for YimianPC.
 |   |   |---bf2
 |   |   |---红警2
 |   |   |---模拟城市5
+|   |   |---RealFlight
 |   |---matlab
 |   |---adobe
 |   |   |---PS
@@ -77,7 +80,48 @@ Config and Reminders for YimianPC.
 |---Files
 |   |
 |   |---onedrive-i@yimian.xyz
+|   |   |---photo
+|   |   |   |---head
+|   |   |   |---cert
+|   |   |   |---DICM
+|   |   |   |   |---phone
+|   |   |   |   |---PC
+|   |   |---backup
+|   |   |   |---qq
+|   |   |   |---usbFlashDisk
+|   |   |   |---PhoneFiles
+|   |   |---install
+|   |   |---log
+|   |   |   |---Ushio
+|   |   |---document
+|   |   |   |---eolane
+|   |   |   |---xjtlu
+|   |   |   |---cv
+|   |   |   |---highSchool
+|   |   |   |---paper
+|   |   |   |---piano
+|   |   |---tape
+|   |   |---study
+|   |   |   |---xjtlu
+|   |   |   |   |---
+|   |   |---info
 |   |---onedrive-i@iotcat.xyz
+|   |   |---video
+|   |   |   |---acg
+|   |   |   |---movie
+|   |   |   |---tv
+|   |   |   |---others
+|   |   |---pic
+|   |   |   |---moe
+|   |   |   |---bckg
+|   |   |   |---blog
+|   |   |   |---
+|   |   |---sh
+|   |   |---document
+|   |   |---msc
+|   |   |   |---yimian
+|   |   |
+|   |   |
 |   |---git
 |   |---html
 |
