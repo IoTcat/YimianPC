@@ -124,5 +124,6 @@ Config and Reminders for YimianPC.
 |   |   |
 |   |---git
 |   |---html
+|   |---tmp
 |
 ```
