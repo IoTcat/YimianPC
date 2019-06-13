@@ -24,6 +24,7 @@ Config and Reminders for YimianPC.
 |   |   |---快捷键管理
 |   |   |---任务栏定制
 |   |   |---TrafficMonitor
+|   |   |---snipaste
 |   |---IIS
 |   |---frp
 |   |---git
