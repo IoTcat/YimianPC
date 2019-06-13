@@ -17,7 +17,7 @@ Config and Reminders for YimianPC.
 |
 |---System
 |   |
-|   |---win10
+|   |---win10(地区: 英国)
 |   |   |---自定义cortana搜索引擎
 |   |   |---重建win文件索引
 |   |   |---资源管理器背景
