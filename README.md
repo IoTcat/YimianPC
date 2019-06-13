@@ -23,6 +23,7 @@ Config and Reminders for YimianPC.
 |   |   |---资源管理器背景
 |   |   |---快捷键管理
 |   |   |---任务栏定制
+|   |   |---TrafficMonitor
 |   |---IIS
 |   |---frp
 |   |---git
