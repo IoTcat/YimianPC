@@ -18,6 +18,10 @@ Config and Reminders for YimianPC.
 |---System
 |   |
 |   |---win10
+|   |   |---自定义cortana搜索引擎
+|   |   |---重建win文件索引
+|   |   |---资源管理器背景
+|   |   |---快捷键管理
 |   |---IIS
 |   |---frp
 |   |---git
@@ -30,6 +34,7 @@ Config and Reminders for YimianPC.
 |   |---shadowsocks
 |   |---everything
 |   |---onedrive
+|   |---esp8266 lib
 |
 |---Programs
 |   |
@@ -105,7 +110,6 @@ Config and Reminders for YimianPC.
 |   |   |   |---xjtlu
 |   |   |   |   |---
 |   |   |---info
-|   |---onedrive-i@iotcat.xyz
 |   |   |---video
 |   |   |   |---acg
 |   |   |   |---movie
@@ -117,7 +121,6 @@ Config and Reminders for YimianPC.
 |   |   |   |---blog
 |   |   |   |---
 |   |   |---sh
-|   |   |---document
 |   |   |---msc
 |   |   |   |---yimian
 |   |   |
