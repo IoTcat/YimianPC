@@ -22,6 +22,7 @@ Config and Reminders for YimianPC.
 |   |   |---重建win文件索引
 |   |   |---资源管理器背景
 |   |   |---快捷键管理
+|   |   |---任务栏定制
 |   |---IIS
 |   |---frp
 |   |---git
