@@ -32,6 +32,7 @@ Config and Reminders for YimianPC.
 |   |---nodeJS
 |   |---python3
 |   |---php7
+|   |---mysql
 |   |---gnu
 |   |---mcafee
 |   |---shadowsocks
