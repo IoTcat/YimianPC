@@ -133,3 +133,11 @@ Config and Reminders for YimianPC.
 |   |---tmp
 |
 ```
+
+## 指令
+
+### 视频压制
++ `x264`: --crf 22 -o ouf inf  
+[文档](http://wmnmtm.blog.163.com/blog/static/3824571420115673052227)
+
+### 
