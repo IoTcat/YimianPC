@@ -85,6 +85,7 @@ Config and Reminders for YimianPC.
 |   |---OBS
 |   |---小公举
 |   |---totalUninstall
+|   |---postman
 |
 |---Files
 |   |
